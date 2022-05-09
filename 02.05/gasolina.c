@@ -7,7 +7,7 @@ main()
 
  scanf("%d",&litro);
 
- printf("quantos litros deseja abastecer: ");
+ printf("insira o valor que deseja abastecer: ";
 
  scanf("%d",&preco);
 
