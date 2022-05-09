@@ -12,6 +12,6 @@ main()
  scanf("%d",&preco);
 
  x = preco/litro;
-printf("voce abasteceu % litros de gasolina",x);
+printf("voce abasteceu %d litros de gasolina",x);
 
 }
