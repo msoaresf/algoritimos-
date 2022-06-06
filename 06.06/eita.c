@@ -9,7 +9,7 @@ main(){
 resp= 's';
 
 
-while ((resp == 's') || (resp == 'sim') || (resp == 'S') || (resp == 'SIM')){
+while (resp == 's') {
 
     printf("Entre com A:\n");
     scanf("%f",&a);
