@@ -12,8 +12,8 @@ contador=1;
 while(contador<=5){
 
     printf("entre com duas variaveis: ");
-    scanf("%d",&a);
-    scanf("%d",&b);
+    scanf("%f",&a);
+    scanf("%f",&b);
 
     r=a+b;
     contador=contador+1;
