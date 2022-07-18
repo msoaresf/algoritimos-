@@ -39,7 +39,7 @@ if(peso<40)
  media=soma/cont3;
  p=cont4/25;
 
- printf("\n a quntidade de pessoas com idade superior a 50 anos é:%d", cont2);
+ printf("\n a quntidade de pessoas com idade superior a 50 anos Ã©:%d", cont2);
  printf("\n a media das alturas:%f",media);
  printf("\n a porcentagem de pessoas com peso inferior a 40 quilos:%f",p);
 }
