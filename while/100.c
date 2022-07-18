@@ -24,8 +24,8 @@ main(){
    media=soma/contador;
 
 
- printf("a soma é %f",soma);
- printf("a media é %f",media);
+ printf("a soma Ã© %f",soma);
+ printf("a media Ã© %f",media);
 
 
 
